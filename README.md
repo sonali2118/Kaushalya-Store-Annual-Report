@@ -1,4 +1,6 @@
- 📊 Kaushalya Store Annual Sales Report (2025)
+## 📊 Kaushalya Store Annual Sales Report (2025)
+
+## MS Excel Project
 
 ## 📝 Objective
 
